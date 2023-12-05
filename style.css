@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+   font-family: 'Bubblegum Sans', serif;
+    background-color: aquamarine;
+  }
+  .hd1{
+     color: blue;
+    border: 5px solid red;
+   font-family: 'Rubik Bubbles', serif;  
+  }
